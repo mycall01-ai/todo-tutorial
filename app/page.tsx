@@ -7,7 +7,7 @@ export default function Page() {
       <div className="flex w-full max-w-md min-w-0 flex-col gap-6">
         <div>
           <h1 className="text-3xl font-bold tracking-tight">
-            ✨ <AuroraText>오늘 해야할 일</AuroraText>
+            ✨ <AuroraText>오늘 뭐 해볼까요?</AuroraText>
           </h1>
           <p className="font-mono text-xs text-muted-foreground">
             (Press <kbd>d</kbd> to toggle dark mode)
